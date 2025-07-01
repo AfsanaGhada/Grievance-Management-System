@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\SEM_5\\.NET\\Grievance Management System\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Grievance Management System.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Grievance Management System.dta6r20dax.bundle.scp.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Grievance Management System.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Grievance Management System.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Grievance Management System.props",
+      "PackagePath": "build\\Grievance Management System.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Grievance Management System.props",
+      "PackagePath": "buildMultiTargeting\\Grievance Management System.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Grievance Management System.props",
+      "PackagePath": "buildTransitive\\Grievance Management System.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
