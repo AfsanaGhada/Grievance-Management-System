@@ -1,0 +1,10 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "My API - V2",
+    "description": "API for version 2",
+    "version": "v2"
+  },
+  "paths": { },
+  "components": { }
+}

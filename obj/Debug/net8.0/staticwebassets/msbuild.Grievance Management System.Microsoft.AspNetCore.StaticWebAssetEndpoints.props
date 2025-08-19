@@ -1,0 +1,16 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/Grievance Management System/Grievance Management System.bundle.scp.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Grievance Management System.dta6r20dax.bundle.scp.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-vwDbCrVlTf\u002BvA0emg0OuPvKN3jLym8ecg4PU6Qunw5k="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1145"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022vwDbCrVlTf\u002BvA0emg0OuPvKN3jLym8ecg4PU6Qunw5k=\u0022"},{"Name":"Last-Modified","Value":"Mon, 16 Jun 2025 09:54:39 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Grievance Management System/Grievance Management System.dta6r20dax.bundle.scp.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Grievance Management System.dta6r20dax.bundle.scp.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"dta6r20dax"},{"Name":"integrity","Value":"sha256-vwDbCrVlTf\u002BvA0emg0OuPvKN3jLym8ecg4PU6Qunw5k="},{"Name":"label","Value":"_content/Grievance Management System/Grievance Management System.bundle.scp.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1145"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022vwDbCrVlTf\u002BvA0emg0OuPvKN3jLym8ecg4PU6Qunw5k=\u0022"},{"Name":"Last-Modified","Value":"Mon, 16 Jun 2025 09:54:39 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>
